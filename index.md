@@ -1,3 +1,8 @@
+---
+layout: default
+title: Accueil
+---
+
 ## Accueil
 Page en cours de construction.
 Page mise à disposition des élèves ...
