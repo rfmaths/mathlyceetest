@@ -10,3 +10,16 @@ footer {
 div#banner {
   display: none !important;
 }
+
+nav ul li a.main-link {
+    font-weight: bold;
+}
+
+nav ul li a.main-link {
+    font-weight: 700;
+    color: #222;
+}
+
+nav ul li a.main-link:hover {
+    color: #0077cc;
+}
