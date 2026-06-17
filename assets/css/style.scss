@@ -23,3 +23,21 @@ nav ul li a.main-link {
 nav ul li a.main-link:hover {
     color: #0077cc;
 }
+
+.top-nav {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.top-nav a {
+    display: inline-block;
+    margin: 0 15px;
+    padding: 8px 16px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.top-nav a:hover {
+    text-decoration: underline;
+}
